@@ -56,36 +56,43 @@ lib/
  ┃ ┃ ┣ recipe_details/# Recipe Details Screen
  ┣ app.dart           # Root App
  ┣ main.dart          # Entry Point
-
-📸 Screenshots
+```
+## 📸 Screenshots
 <p align="center"> <img src="https://github.com/user-attachments/assets/ebc9e9e0-e39f-4282-9709-9936d00f26e7" width="200"/> <img src="https://github.com/user-attachments/assets/caf3c0e4-2001-4ab3-99d1-4df3e7e8da55" width="200"/> <img src="https://github.com/user-attachments/assets/e3fb3aa6-1e87-4cb6-b73f-1cb2838c189e" width="200"/> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/0c76ee3f-4548-4396-9c5a-da96e508ada2" width="200"/> <img src="https://github.com/user-attachments/assets/9aee33f8-8761-4bee-8821-c1ca10edf51c" width="200"/> <img src="https://github.com/user-attachments/assets/2bf17934-6e11-45ca-80a9-757ae7d93d50" width="200"/> </p>
-⚙️ Installation
+
+
+## ⚙️ Installation
 
 Clone the repo
 
+```bash
 git clone https://github.com/HossamHesham2/Yumify
-
-
+```
+```bash
 Install dependencies
+```
 
+```bash
 flutter pub get
-
+```
 
 Run the app
 
+```bash
 flutter run
+```
 
-🌟 Future Enhancements
+## 🌟 Future Enhancements
 
-📝 Add user authentication system.
+-📝 Add user authentication system.
 
-🍽️ Daily random recipe suggestions.
+-🍽️ Daily random recipe suggestions.
 
-🛒 Shopping list from ingredients.
+-🛒 Shopping list from ingredients.
 
-📊 Improve performance with Pagination.
+-📊 Improve performance with Pagination.
 
-👨‍💻 Author
+-👨‍💻 Author
 
-Developed by Hossam Hesham
- 💻
+**Developed by Hossam Hesham
+ 💻**
